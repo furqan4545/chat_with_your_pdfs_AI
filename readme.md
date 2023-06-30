@@ -24,7 +24,7 @@ Feel free to reachout on my linkedin for any query. Linkedin link is given on my
 
 1. Clone the repository:
 \```bash
-git clone https://github.com/yourusername/yourrepository.git
+git clone https://github.com/furqan4545/chat_with_your_pdfs_AI.git
 \```
 
 2. Change directory to the downloaded folder:
