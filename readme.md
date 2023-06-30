@@ -12,7 +12,7 @@ Chat with PDFs is a Python application built with Streamlit and Langchain that a
 ## Architecture
 ------------
 
-![MultiPDF Chat App Diagram](./docs/PDF-LangChain.jpg)
+![MultiPDF Chat App Diagram](talk_with_pdf.jpeg)
 
 The diagram and code is learnt from the tutorial [YouTube](https://youtu.be/dXxQ0LR-3Hg). 
 
