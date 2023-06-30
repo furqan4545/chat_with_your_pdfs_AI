@@ -1,0 +1,4 @@
+In order to use SOTA embeddings and create embeddings in our local machine we can need to install instructorEmbeddings
+
+pip install instructorEmbedding
+pip install sentence_transformers      -> this is basically dependency of instructorEmbedding. So we have to install both of them together. 
