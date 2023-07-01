@@ -2,6 +2,8 @@
 
 Chat with PDFs is a Python application built with Streamlit and Langchain that allows users to upload PDF documents and interact with the content in a conversational manner. 
 
+To access the deployed app go to the link: [liveapp](https://chat-with-pdfs.azurewebsites.net)
+
 ## Features
 
 - Upload multiple PDF documents and process them into a conversational format.
@@ -23,32 +25,32 @@ Feel free to reachout on my linkedin for any query. Linkedin link is given on my
 ## Installation
 
 1. Clone the repository:
-\```bash
+```bash
 git clone https://github.com/furqan4545/chat_with_your_pdfs_AI.git
-\```
+```
 
 2. Change directory to the downloaded folder:
-\```bash
+```bash
 cd yourrepository
-\```
+```
 
 3. Set up a virtual environment and activate it (optional but recommended):
-\```bash
+```bash
 python3 -m venv env
 source env/bin/activate
-\```
+```
 
 4. Install the required dependencies:
-\```bash
+```bash
 pip install -r requirements.txt
-\```
+```
 
 ## Usage
 
 To start the app, simply run:
-\```bash
+```bash
 streamlit run app.py
-\```
+```
 
 This will start the Streamlit server and the app should be accessible at localhost:8501 in your browser.
 

@@ -5,6 +5,8 @@ streamlit==1.24.0
 openai==0.27.8
 faiss-cpu==1.7.4
 tiktoken==0.4.0
+huggingface-hub==0.15.1
+
 
 # uncomment to use huggingface llms
 # huggingface-hub==0.14.1

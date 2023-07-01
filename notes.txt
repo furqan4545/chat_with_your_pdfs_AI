@@ -2,3 +2,16 @@ In order to use SOTA embeddings and create embeddings in our local machine we ca
 
 pip install instructorEmbedding
 pip install sentence_transformers      -> this is basically dependency of instructorEmbedding. So we have to install both of them together. 
+
+
+make sure to always install all the packages and correct version of langchain, otherwise the deployment
+will always fail. 
+
+and once it is deployed go to azure setting configuration and set startup command there. which will be always
+python -m streamlit run app.py --server.port 8000 --server.address 0.0.0.0
+
+set FTP state equals to all allowed. 
+
+when git pull doesnt work.. use below command
+git pull --rebase
+
